@@ -1,0 +1,23 @@
+/* Header */
+
+img.main_logo {
+  width: 95%;
+  max-width: 500px;
+  display: block;
+  margin: auto;
+  padding-top: 10px;
+}
+
+div.top_line {
+  background-color: #8e8e93;
+  color: white;
+  padding: 2px;
+  text-align: right;
+  padding-right: 10px;
+  padding-left: 30px;
+}
+
+.top_line_label {
+  color: white;
+  padding-left: 30px;
+}
